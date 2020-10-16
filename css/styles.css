@@ -2,3 +2,10 @@ img {
   width: 300px;
   height: auto;
 }
+.jumbotron {
+  background: rgb(2,0,36);
+background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 47%, rgba(0,212,255,1) 100%);
+}
+.jumbotron h1 {
+color: darkslategray;
+}
