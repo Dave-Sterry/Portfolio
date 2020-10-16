@@ -3,9 +3,13 @@ img {
   height: auto;
 }
 .jumbotron {
-  background: rgb(2,0,36);
-background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 47%, rgba(0,212,255,1) 100%);
+background-color: #437e3b;
 }
 .jumbotron h1 {
-color: darkslategray;
+color: black;
+}
+
+body {
+  background-color: #0066b2;
+ background: linear-gradient(180deg, #89CFF0 25%, #0000FF 55% )
 }
