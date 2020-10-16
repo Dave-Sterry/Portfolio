@@ -2,21 +2,6 @@ img {
   width: 300px;
   height: auto;
 }
-.jumbotron {
-background-color: rgb(150, 167, 147);
-border: 2px black;
-margin: 10px;
-font-weight: bold;
-font-family: 'Franklin Gothic Medium';
-}
-.jumbotron h1 {
-color: black;
-}
- 
-.jumbotron img {
-  width: 800px;
-  height: auto
-}
 body {
   background-color: #0066b2;
  background: linear-gradient(180deg, #89CFF0 25%, #0000FF 55% )
@@ -46,17 +31,14 @@ body {
   display:flex;
   flex-direction:row;
   justify-content: center;
-  width: 98%;
-  padding: 25px;
+  width: 95%;
   border:solid black;
-  border-width: 20px;
-  margin-bottom: 10px;
-  background-color: white;
+  border-width: 0px;
+  margin-bottom: 10px;  
   box-sizing: border-box;
 }
 
 .banner img {
-  align-items: center;
-  width:600px;
+  width:900px;
   height:auto;
 }
