@@ -3,7 +3,9 @@ img {
   height: auto;
 }
 .jumbotron {
-background-color: #437e3b;
+background-color: rgb(183, 192, 181);
+border: 2px black;
+margin: 10px;
 }
 .jumbotron h1 {
 color: black;
@@ -15,4 +17,16 @@ body {
 }
 .card {
   background-color: rgb(183, 192, 181);
+  border: 2px black;
+  margin: 10px;
+}
+
+.hightlight {
+  font-size: large;
+  font-weight: bold;
+}
+
+.card img {
+  float: left;
+  margin:15px;
 }
