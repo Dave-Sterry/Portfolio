@@ -7,7 +7,7 @@
 
 _A simple one page portfolio to hightlight what I have learned about creating and styling websites in HTML and CSS. This project was my first independent code review project for Epicodus_
 
-The site can be viewed [here](https://dave-sterry.github.io/portfolio))
+The site can be viewed [here](https://dave-sterry.github.io/portfolio)
 
 ## Setup Instructions
 1. User will need to have an up to date browser installed such as Chrome of Firefox
